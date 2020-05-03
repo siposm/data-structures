@@ -24,7 +24,7 @@ You can watch videos (coding and theory introduction) for each material here:
     - using adjacency list
     - using generic type (T)
     - implementing DFS and BFS traversal algorithms
-    - check relevant blog post (..soon..)
+    - check relevant blog post [blog post](https://siposm.hu/blog/graph-datastructure)
 - **LA-09-HASHTABLE**
     - implementing hash table data structure
     - with linked list
